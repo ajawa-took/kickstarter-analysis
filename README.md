@@ -61,8 +61,6 @@ sets the Subcategory for everything.
 ![Better graph.](/resources/Outcomes_vs_Goals2.PNG)
 
 
- ===>>> images and links to code
-
 ### Challenges and Difficulties Encountered
 
 
