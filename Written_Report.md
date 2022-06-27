@@ -35,7 +35,7 @@
 #### The conditions in the elaborate COUNTIFS formula
 
  Digest of the conditions in the formula in B2, used for the whole range (B2:D13):
-		> Sheet1!$D$2:$D$4115, ">="&$N1,  
+> Sheet1!$D$2:$D$4115, ">="&$N1,  
 sets the bottom of the Goal range bucket for the row  
 		> Sheet1!$D$2:$D$4115, "<"&$N2,  
 sets the top of the Goal range bucket for the row  
@@ -47,11 +47,11 @@ sets the Subcategory for everything.
 #### Two graphs
 
 
-![Requested graph.](/resources/Outcomes_vs_Goals.png)
+![Requested graph.](/resources/Outcomes_vs_Goals.PNG)
 
  The graph "Outcomes_vs_Goals" better fits the specifications, while "Outcomes_vs_Goals2" has more readable labels on the x-axis.
 
-![Better graph.](/resources/Outcomes_vs_Goals2.png)
+![Better graph.](/resources/Outcomes_vs_Goals2.PNG)
 
 
  ===>>> images and links to code
